@@ -1,0 +1,2 @@
+# OGQueueManager
+Ogame Queue Manager
